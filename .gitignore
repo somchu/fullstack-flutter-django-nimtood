@@ -1,0 +1,30 @@
+# ---------- Python / Django ----------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.sqlite3
+db.sqlite3
+.env
+media/
+staticfiles/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ---------- Flutter / Dart ----------
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+*.iml
+.idea/
+ios/Pods/
+android/.gradle/
+android/local.properties
+
+# ---------- OS / Editor ----------
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
